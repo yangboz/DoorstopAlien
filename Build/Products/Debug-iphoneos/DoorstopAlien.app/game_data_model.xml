@@ -1,0 +1,16 @@
+<DIAGRAM generator="gModeler.com" appVersion="0.2" type="classmap"
+	name="DoorstopAlien_data_model_game" author="Knight.zhou" dateCreated="2012/6/13"
+	dateModified="2012/6/13">
+	<ELEMENTS>
+		<ELEMENT hiliteColor="FF9900" height="153.95" width="220" y="-58"
+			x="-90" name="GameDataModel" type="class">
+			<groups>
+				<GROUP name="Properties">
+					<ITEM name="image" datatype="string" hiliteColor="FFFFFF" />
+					<ITEM name="intro" datatype="string" hiliteColor="FFFFFF" />
+				</GROUP>
+			</groups>
+		</ELEMENT>
+	</ELEMENTS>
+	<LINKS />
+</DIAGRAM>

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel
+END
+FontLabelStringDrawing.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/FontLabelStringDrawing.h
+END
+FontLabel.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/FontLabel.m
+END
+ZAttributedString.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/ZAttributedString.m
+END
+FontLabelStringDrawing.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/FontLabelStringDrawing.m
+END
+ZFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/ZFont.h
+END
+FontManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/FontManager.h
+END
+ZAttributedStringPrivate.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/ZAttributedStringPrivate.h
+END
+ZFont.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/ZFont.m
+END
+FontManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/FontManager.m
+END
+FontLabel.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/FontLabel.h
+END
+ZAttributedString.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/libs/FontLabel/ZAttributedString.h
+END

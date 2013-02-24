@@ -1,0 +1,46 @@
+//
+//  MorseCode.h
+//  MerePawn
+//
+//  Created by zhou Yangbo on 12-5-13.
+//  Copyright (c) 2012年 Godpaper. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "MorseCodeDelegate.h"
+
+@interface MorseCode : NSObject <MorseCodeDelegate>
+
+/**
+ * Generates Morse code audio based on a string. The sampleData event handler 
+ * for the codeSound object generates audio sample data used by the codeSound object.
+ */
+
+-(void) playString:(NSString *)string;
+
+/**
+ * Notifies the host application that the sound is done playing.
+ */
+//public function soundCompleteHandler(event:Event):void
+//+(void)soundCompleteHandler:(
+/**
+ * Stops the sound, and notifies the host application that the sound is done playing.
+ */
+//public function stop():void
+-(void)stop;
+
+/**
+ * Converts a String, such as "abc 123", into a Morse code string, such as
+ * ".- -... -.-.   .---- ..--- ...--". The codes Array maps characters to
+ * their Morse code equivalents.
+ */
+//public static function stringToCode(string:String):String
++(NSString *)stringToCode:(NSString *)string;
+
+//Objective-c static get/set function for AS3 static variable.
++(NSDictionary *)codeList;
+//+(void)setCode:(NSMutableArray *)value;
+//Delegate which similar with the AS3 event handler;
+@property(retain,nonatomic) id<MorseCodeDelegate> delegate;
+
+@end

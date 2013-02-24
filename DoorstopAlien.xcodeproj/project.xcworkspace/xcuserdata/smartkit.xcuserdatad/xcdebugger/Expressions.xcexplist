@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[MainMenuLayer init]:MainMenuLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "screenSize.width">
+            </PersistentString>
+            <PersistentString
+               value = "newGame.position">
+            </PersistentString>
+            <PersistentString
+               value = "newGame.rect.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MorseButton labelWithPlaintext:sound:]:MorseButton.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[MorseCodeParser codeToString:]:MorseCodeParser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[self morseCodeDict] valueForKey:@&quot;#&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MorseButton ccTouchEnded:withEvent:]:MorseButton.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.currentPlaintext">
+            </PersistentString>
+            <PersistentString
+               value = "self.plaintext">
+            </PersistentString>
+            <PersistentString
+               value = "currentCiphertext">
+            </PersistentString>
+            <PersistentString
+               value = "self.titleLabel">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentTitle">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MorseCodeParser stringToCode:]:MorseCodeParser.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[[self codeDictionary] valueForKey:@&quot;1&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LearningLayer init]:LearningLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[result getObjectAtIndex:0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PracticeLayer goNext:]:PracticeLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "answerItems objectAtIndex:0">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[LearningXMLProxy parser:didStartElement:namespaceURI:qualifiedName:attributes:]:LearningXMLProxy.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "attributeDict allKeys">
+            </PersistentString>
+            <PersistentString
+               value = "[attributeDict objectForKey:@&quot;name&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MorseCodeParser initWithDictionary]:MorseCodeParser.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[PracticeModel setAnswerData:atIndex:]:PracticeModel.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[answerItems ojectAtIndex:0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

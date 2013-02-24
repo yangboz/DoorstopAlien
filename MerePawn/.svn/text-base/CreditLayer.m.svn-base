@@ -1,0 +1,56 @@
+//
+//  CreditLayer.m
+//  MerePawn
+//
+//  Created by zhou Yangbo on 12-5-26.
+//  Copyright 2012年 GODPAPER. All rights reserved.
+//
+
+#import "CreditLayer.h"
+#import "SceneManager.h"
+#import "SimpleAudioEngine.h"
+
+@implementation CreditLayer
+
+-(id)init
+{		
+    self = [super init];
+    if (!self) {
+        return nil;
+    }
+    CCMenuItemFont *back = [CCMenuItemFont itemFromString:@"back" target:self selector:@selector(goBack:)];
+    CCMenu *menu = [CCMenu menuWithItems:back,nil];
+    
+    menu.position = ccp(160,150);
+    [self addChild:menu];
+    
+    return self;
+}
+
+-(void)goBack:(id)sender
+{
+    SimpleAudioEngine *audioEngine = [SimpleAudioEngine sharedEngine];
+//    [audioEngine preloadBackgroundMusic:@"Maroon 5 -Payphone.mp3"];
+//    [audioEngine playBackgroundMusic:@"Maroon 5 -Payphone.mp3"];
+    [audioEngine preloadEffect:@"beep-7.mp3"];
+    [audioEngine playEffect:@"beep-7.mp3"];
+    
+    [SceneManager goMainMenu];
+}
+
++(CCScene *) scene
+{
+	// 'scene' is an autorelease object.
+	CCScene *scene = [CCScene node];
+	
+	// 'layer' is an autorelease object.
+	CreditLayer *layer = [CreditLayer node];
+	
+	// add layer as a child to scene
+	[scene addChild: layer];
+	
+	// return the scene
+	return scene;
+}
+
+@end

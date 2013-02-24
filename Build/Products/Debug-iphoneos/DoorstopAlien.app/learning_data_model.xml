@@ -1,0 +1,100 @@
+<DIAGRAM generator="gModeler.com" appVersion="0.2" type="classmap"
+	name="DoorstopAlien_data_model_learning" author="Knight.zhou"
+	dateCreated="2012/6/13" dateModified="2012/6/25">
+	<ELEMENTS>
+		<ELEMENT hiliteColor="FF9900" height="218.95" width="250" y="-87"
+			x="-64" name="LearningDataModel" type="class">
+			<groups>
+				<GROUP name="Properties">
+                    <!--Letters-->
+					<ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".-" plain="a"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-..." plain="b"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.-." plain="c"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.." plain="d"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="." plain="e"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="..-." plain="f"/>
+                    
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--." plain="g"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="...." plain="h"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".." plain="i"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".---" plain="j"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.-" plain="k"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".-.." plain="l"/>
+                    
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--" plain="m"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-." plain="n"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="---" plain="o"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".--." plain="p"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--.-" plain="q"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".-." plain="r"/>
+                    
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="..." plain="s"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-" plain="t"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="..-" plain="u"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="...-" plain="v"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="..-" plain="w"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-..-" plain="x"/>
+                    
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.--" plain="y"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--.." plain="z"/>
+                    <!--Numbers-->
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-----" plain="0"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".----" plain="1"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="..---" plain="2"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="...--" plain="3"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="....-" plain="4"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="....." plain="5"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-...." plain="6"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--..." plain="7"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="---.." plain="8"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="----." plain="9"/>
+                    <!--Punctuations-->
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".-.-.-" plain="."/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.--.-" plain=","/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--..--" plain="?"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".---." plain="'"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.-.--" plain="!"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.--." plain="("/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.--.-" plain=")"/>
+                    <!--<ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".-..." plain="&"/>-->
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="---..." plain=":"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.-.-." plain=";"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-...-" plain="="/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".-.-." plain="+"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-....-" plain="-"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="..--.-" plain="_"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".-..-." plain="\"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="...-..-" plain="$"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".--.-." plain="@"/>
+                    <!--Prosigns-->
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".-..." plain="Wait"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="......." plain="Error"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="...-." plain="Understood"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.-" plain="InvitationToTransmit"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="...-.-" plain="End of work"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.-.-" plain="Starting Signal"/>
+                    <!--Non-English extensions-->
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".-.-" plain="ä"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".—..–" plain="è"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--..--" plain="ñ"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".--.-" plain="à"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="..-.." plain="é"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="---" plain="ö"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.-.." plain="ç"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--.-." plain="ĝ"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="...-." plain="ŝ"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="----" plain="š"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="-.--." plain="ĥ"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".--.." plain="þ"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="..--." plain="ð"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher=".---." plain="ĵ"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="..--" plain="ü"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="...-..." plain="ś"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--..-." plain="ź"/>
+                    <ITEM name="refer" datatype="text" hiliteColor="FFFFFF" cipher="--..-" plain="ż"/>
+				</GROUP>
+			</groups>
+		</ELEMENT>
+	</ELEMENTS>
+	<LINKS />
+</DIAGRAM>

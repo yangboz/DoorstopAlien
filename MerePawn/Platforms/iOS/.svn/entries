@@ -1,0 +1,126 @@
+10
+
+dir
+0
+https://doorstop-alien.googlecode.com/svn/trunk/DoorstopAlien/MerePawn/Platforms/iOS
+https://doorstop-alien.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+95ff7ad8-29ef-4dc3-e17e-30018f40907d
+
+CCTouchHandler.m
+file
+
+
+
+add
+
+CCDirectorIOS.h
+file
+
+
+
+add
+
+ESRenderer.h
+file
+
+
+
+add
+
+CCTouchDispatcher.h
+file
+
+
+
+add
+
+ES1Renderer.h
+file
+
+
+
+add
+
+CCDirectorIOS.m
+file
+
+
+
+add
+
+glu.c
+file
+
+
+
+add
+
+EAGLView.h
+file
+
+
+
+add
+
+CCTouchDispatcher.m
+file
+
+
+
+add
+
+ES1Renderer.m
+file
+
+
+
+add
+
+CCTouchDelegateProtocol.h
+file
+
+
+
+add
+
+CCTouchHandler.h
+file
+
+
+
+add
+
+glu.h
+file
+
+
+
+add
+
+EAGLView.m
+file
+
+
+
+add
+

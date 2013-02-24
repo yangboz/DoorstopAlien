@@ -1,0 +1,147 @@
+10
+
+dir
+0
+https://doorstop-alien.googlecode.com/svn/trunk/DoorstopAlien/MerePawn/CCControlExtension/CCControl
+https://doorstop-alien.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+95ff7ad8-29ef-4dc3-e17e-30018f40907d
+
+CCControlStepper.h
+file
+
+
+
+add
+
+CCControlSlider.h
+file
+
+
+
+add
+
+CCControlHuePicker.m
+file
+
+
+
+add
+
+CCControl.m
+file
+
+
+
+add
+
+CCControlSaturationBrightnessPicker.m
+file
+
+
+
+add
+
+CCControlStepper.m
+file
+
+
+
+add
+
+CCControlSlider.m
+file
+
+
+
+add
+
+CCControlSwitch.h
+file
+
+
+
+add
+
+CCControlColourPicker.h
+file
+
+
+
+add
+
+Utils
+dir
+
+
+
+add
+
+CCControlSwitch.m
+file
+
+
+
+add
+
+CCControlColourPicker.m
+file
+
+
+
+add
+
+CCControlButton.h
+file
+
+
+
+add
+
+CCControlHuePicker.h
+file
+
+
+
+add
+
+CCControl.h
+file
+
+
+
+add
+
+CCControlButton.m
+file
+
+
+
+add
+
+CCControlSaturationBrightnessPicker.h
+file
+
+
+
+add
+

@@ -1,0 +1,84 @@
+10
+
+dir
+0
+https://doorstop-alien.googlecode.com/svn/trunk/DoorstopAlien/MerePawn/Platforms/Mac
+https://doorstop-alien.googlecode.com/svn
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+95ff7ad8-29ef-4dc3-e17e-30018f40907d
+
+MacWindow.m
+file
+
+
+
+add
+
+CCEventDispatcher.h
+file
+
+
+
+add
+
+MacGLView.h
+file
+
+
+
+add
+
+CCDirectorMac.h
+file
+
+
+
+add
+
+CCEventDispatcher.m
+file
+
+
+
+add
+
+MacGLView.m
+file
+
+
+
+add
+
+CCDirectorMac.m
+file
+
+
+
+add
+
+MacWindow.h
+file
+
+
+
+add
+

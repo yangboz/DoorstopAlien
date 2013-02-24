@@ -1,0 +1,49 @@
+<DIAGRAM generator="gModeler.com" appVersion="0.2" type="classmap"
+	name="DoorstopAlien_data_model_practice" author="Knight.zhou"
+	dateCreated="2012/6/13" dateModified="2012/6/13">
+	<ELEMENTS>
+		<ELEMENT hiliteColor="FF9900" height="250" width="250" y="-60"
+			x="-59" name="PracticeDataModel" type="class">
+			<groups>
+				<GROUP name="Properties">
+					<ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result=".-" title="a" selection="-.,.-,--,.-." />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="-..." title="b" selection="-...,.-,--,..-" />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="-.-." title="c" selection="-.,.-,-.-.,-.." />  
+                    
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="-.." title="d" selection="-..,.-,--,.-." />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="." title="e" selection="-...,.-,--,." />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="..-." title="f" selection="-.,..-.,-.-.,-.." /> 
+                    
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="--." title="g" selection="--.,.-,--,.-." />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="...." title="h" selection="-...,.-,--,...." />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result=".." title="i" selection="-.,.-,-.-.,.." />  
+                    
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result=".---" title="j" selection="-.,.-,.---,.-." />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="-.-" title="k" selection="-...,.-,--,-.-" />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result=".-.." title="l" selection="-.,.-..,-.-.,-.." /> 
+                    
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="--" title="m" selection="-.,.-,--,.-." />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="---" title="o" selection="-...,.-,--,---" />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result=".--." title="p" selection="-.,.-,-.-.,.--." />  
+                    
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="--.-" title="q" selection="-.,.-,--.-,.-." />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result=".-." title="r" selection="-...,.-.,--,..-" />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="..." title="s" selection="-.,.-,-.-.,..." /> 
+                    
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="-" title="t" selection="-.,.-,--,-" />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="..-" title="u" selection="-...,.-,--,..-" />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="...-" title="v" selection="-.,.-,-.-.,...-" />  
+                    
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result=".--" title="w" selection=".--,.-,--,.-." />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="-..-" title="x" selection="-...,-..-,--,..-" />
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="-.--" title="y" selection="-.,.-,-.-.,-.--" /> 
+                    
+                    <ITEM name="quiz" datatype="int" hiliteColor="FFFFFF" result="--.." title="z" selection="-.--,.-,--..,-.-." />
+
+
+				</GROUP>
+			</groups>
+		</ELEMENT>
+	</ELEMENTS>
+	<LINKS />
+</DIAGRAM>

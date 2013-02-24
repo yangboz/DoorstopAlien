@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/trunk/DoorstopAlien/MerePawn
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/main.m
+END
+HelpLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/HelpLayer.m
+END
+SceneManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/SceneManager.m
+END
+Icon@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/Icon@2x.png
+END
+SubjectVO.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/SubjectVO.h
+END
+GameLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/DoorstopAlien/MerePawn/GameLayer.h
+END
+MainMenuLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/MainMenuLayer.h
+END
+SubjectVO.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/SubjectVO.m
+END
+MainMenuLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/MainMenuLayer.m
+END
+GameLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/DoorstopAlien/MerePawn/GameLayer.m
+END
+Icon-72.png
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/Icon-72.png
+END
+iTunesArtwork.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/iTunesArtwork.png
+END
+Icon-Small.png
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/Icon-Small.png
+END
+SettingsLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/SettingsLayer.h
+END
+GameConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/GameConfig.h
+END
+SettingsLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/SettingsLayer.m
+END
+SubjectsModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/SubjectsModel.h
+END
+Icon-Small@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/Icon-Small@2x.png
+END
+CreditLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/DoorstopAlien/MerePawn/CreditLayer.h
+END
+SubjectsModel.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/SubjectsModel.m
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/AppDelegate.h
+END
+MorseCodeDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/MorseCodeDelegate.h
+END
+CreditLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/15/trunk/DoorstopAlien/MerePawn/CreditLayer.m
+END
+Icon-Small-50.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/Icon-Small-50.png
+END
+LevelTransitionLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/LevelTransitionLayer.h
+END
+Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/Prefix.pch
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/AppDelegate.m
+END
+MorseCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/MorseCode.h
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/RootViewController.h
+END
+LevelTransitionLayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/LevelTransitionLayer.m
+END
+Icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/Icon.png
+END
+MorseCode.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/trunk/DoorstopAlien/MerePawn/MorseCode.m
+END
+HelpLayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/HelpLayer.h
+END
+beep-7.mp3
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/trunk/DoorstopAlien/MerePawn/beep-7.mp3
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/RootViewController.m
+END
+Icon-Small-50@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/Icon-Small-50@2x.png
+END
+iTunesArtwork@2x.png
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/iTunesArtwork@2x.png
+END
+SceneManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/14/trunk/DoorstopAlien/MerePawn/SceneManager.h
+END
