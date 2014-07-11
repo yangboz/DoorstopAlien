@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		65BDD55A196F8F9200B3C1C2 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD559196F8F9200B3C1C2 /* Images.xcassets */; };
+		65BDD569196F8FC800B3C1C2 /* AppIcon29x29.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD55B196F8FC800B3C1C2 /* AppIcon29x29.png */; };
+		65BDD56A196F8FC800B3C1C2 /* AppIcon29x29@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD55C196F8FC800B3C1C2 /* AppIcon29x29@2x.png */; };
+		65BDD56B196F8FC800B3C1C2 /* AppIcon40x40.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD55D196F8FC800B3C1C2 /* AppIcon40x40.png */; };
+		65BDD56C196F8FC800B3C1C2 /* AppIcon40x40@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD55E196F8FC800B3C1C2 /* AppIcon40x40@2x.png */; };
+		65BDD56D196F8FC800B3C1C2 /* AppIcon50x50.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD55F196F8FC800B3C1C2 /* AppIcon50x50.png */; };
+		65BDD56E196F8FC800B3C1C2 /* AppIcon50x50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD560196F8FC800B3C1C2 /* AppIcon50x50@2x.png */; };
+		65BDD56F196F8FC800B3C1C2 /* AppIcon57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD561196F8FC800B3C1C2 /* AppIcon57x57.png */; };
+		65BDD570196F8FC800B3C1C2 /* AppIcon57x57@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD562196F8FC800B3C1C2 /* AppIcon57x57@2x.png */; };
+		65BDD571196F8FC800B3C1C2 /* AppIcon60x60.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD563196F8FC800B3C1C2 /* AppIcon60x60.png */; };
+		65BDD572196F8FC800B3C1C2 /* AppIcon60x60@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD564196F8FC800B3C1C2 /* AppIcon60x60@2x.png */; };
+		65BDD573196F8FC800B3C1C2 /* AppIcon72x72.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD565196F8FC800B3C1C2 /* AppIcon72x72.png */; };
+		65BDD574196F8FC800B3C1C2 /* AppIcon72x72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD566196F8FC800B3C1C2 /* AppIcon72x72@2x.png */; };
+		65BDD575196F8FC800B3C1C2 /* AppIcon76x76.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD567196F8FC800B3C1C2 /* AppIcon76x76.png */; };
+		65BDD576196F8FC800B3C1C2 /* AppIcon76x76@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 65BDD568196F8FC800B3C1C2 /* AppIcon76x76@2x.png */; };
 		A40CD1F915A32F2F004A80C7 /* iCarousel.m in Sources */ = {isa = PBXBuildFile; fileRef = A40CD1F815A32F2F004A80C7 /* iCarousel.m */; };
 		A43485E115A5C5CC0025A6C5 /* practice_bg-hd.png in Resources */ = {isa = PBXBuildFile; fileRef = A43485DD15A5C5CC0025A6C5 /* practice_bg-hd.png */; };
 		A43485E215A5C5CC0025A6C5 /* practice_bg-ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = A43485DE15A5C5CC0025A6C5 /* practice_bg-ipad.png */; };
@@ -245,6 +260,21 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		65BDD559196F8F9200B3C1C2 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = DoorstopAlien/Images.xcassets; sourceTree = SOURCE_ROOT; };
+		65BDD55B196F8FC800B3C1C2 /* AppIcon29x29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon29x29.png; sourceTree = "<group>"; };
+		65BDD55C196F8FC800B3C1C2 /* AppIcon29x29@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon29x29@2x.png"; sourceTree = "<group>"; };
+		65BDD55D196F8FC800B3C1C2 /* AppIcon40x40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon40x40.png; sourceTree = "<group>"; };
+		65BDD55E196F8FC800B3C1C2 /* AppIcon40x40@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon40x40@2x.png"; sourceTree = "<group>"; };
+		65BDD55F196F8FC800B3C1C2 /* AppIcon50x50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon50x50.png; sourceTree = "<group>"; };
+		65BDD560196F8FC800B3C1C2 /* AppIcon50x50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon50x50@2x.png"; sourceTree = "<group>"; };
+		65BDD561196F8FC800B3C1C2 /* AppIcon57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon57x57.png; sourceTree = "<group>"; };
+		65BDD562196F8FC800B3C1C2 /* AppIcon57x57@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon57x57@2x.png"; sourceTree = "<group>"; };
+		65BDD563196F8FC800B3C1C2 /* AppIcon60x60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon60x60.png; sourceTree = "<group>"; };
+		65BDD564196F8FC800B3C1C2 /* AppIcon60x60@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon60x60@2x.png"; sourceTree = "<group>"; };
+		65BDD565196F8FC800B3C1C2 /* AppIcon72x72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon72x72.png; sourceTree = "<group>"; };
+		65BDD566196F8FC800B3C1C2 /* AppIcon72x72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon72x72@2x.png"; sourceTree = "<group>"; };
+		65BDD567196F8FC800B3C1C2 /* AppIcon76x76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AppIcon76x76.png; sourceTree = "<group>"; };
+		65BDD568196F8FC800B3C1C2 /* AppIcon76x76@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "AppIcon76x76@2x.png"; sourceTree = "<group>"; };
 		A40CD1F715A32F2F004A80C7 /* iCarousel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCarousel.h; sourceTree = "<group>"; };
 		A40CD1F815A32F2F004A80C7 /* iCarousel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iCarousel.m; sourceTree = "<group>"; };
 		A43485DD15A5C5CC0025A6C5 /* practice_bg-hd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "practice_bg-hd.png"; sourceTree = "<group>"; };
@@ -718,6 +748,7 @@
 				A4C4FCD2157071D400FBD8F6 /* GameConfig.h */,
 				A4C4FB78157071D100FBD8F6 /* Resources */,
 				A4C4FB8C157071D100FBD8F6 /* libs */,
+				65BDD559196F8F9200B3C1C2 /* Images.xcassets */,
 				A4C4FCC5157071D400FBD8F6 /* Supporting Files */,
 			);
 			name = DoorstopAlien;
@@ -957,6 +988,20 @@
 		A4E67F4A158B851B00C03790 /* icons */ = {
 			isa = PBXGroup;
 			children = (
+				65BDD55B196F8FC800B3C1C2 /* AppIcon29x29.png */,
+				65BDD55C196F8FC800B3C1C2 /* AppIcon29x29@2x.png */,
+				65BDD55D196F8FC800B3C1C2 /* AppIcon40x40.png */,
+				65BDD55E196F8FC800B3C1C2 /* AppIcon40x40@2x.png */,
+				65BDD55F196F8FC800B3C1C2 /* AppIcon50x50.png */,
+				65BDD560196F8FC800B3C1C2 /* AppIcon50x50@2x.png */,
+				65BDD561196F8FC800B3C1C2 /* AppIcon57x57.png */,
+				65BDD562196F8FC800B3C1C2 /* AppIcon57x57@2x.png */,
+				65BDD563196F8FC800B3C1C2 /* AppIcon60x60.png */,
+				65BDD564196F8FC800B3C1C2 /* AppIcon60x60@2x.png */,
+				65BDD565196F8FC800B3C1C2 /* AppIcon72x72.png */,
+				65BDD566196F8FC800B3C1C2 /* AppIcon72x72@2x.png */,
+				65BDD567196F8FC800B3C1C2 /* AppIcon76x76.png */,
+				65BDD568196F8FC800B3C1C2 /* AppIcon76x76@2x.png */,
 				A4E9DC5F15AAFDF300065CFD /* Icon-72.png */,
 				A4E9DC6015AAFDF300065CFD /* Icon-72@2x.png */,
 				A4E9DC6115AAFDF300065CFD /* Icon-Small-50.png */,
@@ -1389,6 +1434,11 @@
 			attributes = {
 				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = GODPAPER;
+				TargetAttributes = {
+					A4C4FB62157071D100FBD8F6 = {
+						DevelopmentTeam = 63X9SGW3ZX;
+					};
+				};
 			};
 			buildConfigurationList = A4C4FB5D157071D100FBD8F6 /* Build configuration list for PBXProject "DoorstopAlien" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -1414,6 +1464,7 @@
 			files = (
 				A4C4FB8B157071D100FBD8F6 /* iTunesArtwork in Resources */,
 				A480D38A1570B18100130A4D /* beep-7.mp3 in Resources */,
+				65BDD572196F8FC800B3C1C2 /* AppIcon60x60@2x.png in Resources */,
 				A4F2A5DE157B130B00AC58D3 /* LICENSE_CCControlExtention.txt in Resources */,
 				A4F2A605157B131400AC58D3 /* README.md in Resources */,
 				A4E87525157CE18700CFDFB6 /* button-hd.png in Resources */,
@@ -1436,6 +1487,7 @@
 				A4EC7AAC1596A7C40087A1C0 /* sliderThumb.png in Resources */,
 				A4EC7AAD1596A7C40087A1C0 /* sliderTrack-hd.png in Resources */,
 				A4EC7AAE1596A7C40087A1C0 /* sliderTrack.png in Resources */,
+				65BDD56A196F8FC800B3C1C2 /* AppIcon29x29@2x.png in Resources */,
 				A4E7A2C4159FE1A80068D6CA /* button_blue_down-hd.png in Resources */,
 				A4E7A2C5159FE1A80068D6CA /* button_blue_down-ipad.png in Resources */,
 				A4E7A2C6159FE1A80068D6CA /* button_blue_down.png in Resources */,
@@ -1445,8 +1497,10 @@
 				A4E7A2CB159FE1A80068D6CA /* button_orange_down-hd.png in Resources */,
 				A4E7A2CC159FE1A80068D6CA /* button_orange_down-ipad.png in Resources */,
 				A4E7A2CD159FE1A80068D6CA /* button_orange_down.png in Resources */,
+				65BDD55A196F8F9200B3C1C2 /* Images.xcassets in Resources */,
 				A4E7A2CE159FE1A80068D6CA /* button_orange_up-hd.png in Resources */,
 				A4E7A2CF159FE1A80068D6CA /* button_orange_up-ipad.png in Resources */,
+				65BDD56B196F8FC800B3C1C2 /* AppIcon40x40.png in Resources */,
 				A4E7A2D0159FE1A80068D6CA /* button_orange_up.png in Resources */,
 				A4E7A2D2159FE1A80068D6CA /* button_red_down-hd.png in Resources */,
 				A4E7A2D3159FE1A80068D6CA /* button_red_down-ipad.png in Resources */,
@@ -1470,21 +1524,27 @@
 				A43485F315A5C93B0025A6C5 /* circle_button_green_up-ipad.png in Resources */,
 				A43485F415A5C93B0025A6C5 /* circle_button_green_up.png in Resources */,
 				A48852B715A5E6AB005F7842 /* circle_button_blue_down-hd.png in Resources */,
+				65BDD576196F8FC800B3C1C2 /* AppIcon76x76@2x.png in Resources */,
 				A48852B815A5E6AB005F7842 /* circle_button_blue_down-ipad.png in Resources */,
+				65BDD56E196F8FC800B3C1C2 /* AppIcon50x50@2x.png in Resources */,
 				A48852B915A5E6AB005F7842 /* circle_button_blue_down.png in Resources */,
 				A48852BA15A5E6AB005F7842 /* circle_button_blue_up-hd.png in Resources */,
 				A48852BB15A5E6AB005F7842 /* circle_button_blue_up-ipad.png in Resources */,
 				A48852BC15A5E6AB005F7842 /* circle_button_blue_up.png in Resources */,
 				A48852CA15A5E6D3005F7842 /* circle_button_red_down-hd.png in Resources */,
 				A48852CB15A5E6D3005F7842 /* circle_button_red_down-ipad.png in Resources */,
+				65BDD575196F8FC800B3C1C2 /* AppIcon76x76.png in Resources */,
 				A48852CC15A5E6D3005F7842 /* circle_button_red_down.png in Resources */,
 				A48852CD15A5E6D3005F7842 /* circle_button_red_up-hd.png in Resources */,
 				A48852CE15A5E6D3005F7842 /* circle_button_red_up-ipad.png in Resources */,
 				A48852CF15A5E6D3005F7842 /* circle_button_red_up.png in Resources */,
 				A48852D015A5E6D3005F7842 /* circle_button_yellow_down-hd.png in Resources */,
+				65BDD570196F8FC800B3C1C2 /* AppIcon57x57@2x.png in Resources */,
 				A48852D115A5E6D3005F7842 /* circle_button_yellow_down-ipad.png in Resources */,
 				A48852D215A5E6D3005F7842 /* circle_button_yellow_down.png in Resources */,
 				A48852D315A5E6D3005F7842 /* circle_button_yellow_up-hd.png in Resources */,
+				65BDD56F196F8FC800B3C1C2 /* AppIcon57x57.png in Resources */,
+				65BDD571196F8FC800B3C1C2 /* AppIcon60x60.png in Resources */,
 				A48852D415A5E6D3005F7842 /* circle_button_yellow_up-ipad.png in Resources */,
 				A48852D515A5E6D3005F7842 /* circle_button_yellow_up.png in Resources */,
 				A4EB84D215A72BCF0061510D /* main_menu_bg-hd.png in Resources */,
@@ -1495,6 +1555,7 @@
 				A4E61F6415A9EC7400DA7D45 /* playing_bg.png in Resources */,
 				A4E620E615A9F2BF00DA7D45 /* Default.png in Resources */,
 				A4E9DC6915AAFDF300065CFD /* Icon-72.png in Resources */,
+				65BDD56C196F8FC800B3C1C2 /* AppIcon40x40@2x.png in Resources */,
 				A4E9DC6A15AAFDF300065CFD /* Icon-72@2x.png in Resources */,
 				A4E9DC6B15AAFDF300065CFD /* Icon-Small-50.png in Resources */,
 				A4E9DC6C15AAFDF300065CFD /* Icon-Small-50@2x.png in Resources */,
@@ -1504,9 +1565,13 @@
 				A4E9DC7015AAFDF300065CFD /* Icon@2x.png in Resources */,
 				A4E9DC7115AAFDF300065CFD /* iTunesArtwork.png in Resources */,
 				A4E9DC7215AAFDF300065CFD /* iTunesArtwork@2x.png in Resources */,
+				65BDD573196F8FC800B3C1C2 /* AppIcon72x72.png in Resources */,
 				A4B951A615BDA1AF001D2A15 /* help_bg-hd.png in Resources */,
 				A4B951A715BDA1AF001D2A15 /* help_bg-ipad.png in Resources */,
+				65BDD574196F8FC800B3C1C2 /* AppIcon72x72@2x.png in Resources */,
+				65BDD56D196F8FC800B3C1C2 /* AppIcon50x50.png in Resources */,
 				A4B951A915BDA1AF001D2A15 /* help_bg.png in Resources */,
+				65BDD569196F8FC800B3C1C2 /* AppIcon29x29.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1710,6 +1775,10 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
@@ -1717,9 +1786,10 @@
 				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = MerePawn/Resources/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_LDFLAGS = "-lz";
 				PRODUCT_NAME = DoorstopAlien;
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
 			};
@@ -1729,15 +1799,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = MerePawn/Prefix.pch;
 				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = MerePawn/Resources/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
 				OTHER_LDFLAGS = "-lz";
 				PRODUCT_NAME = DoorstopAlien;
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				WRAPPER_EXTENSION = app;
