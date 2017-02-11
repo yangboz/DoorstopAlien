@@ -87,7 +87,7 @@ Use case proposal:
 SWOT analyst
 =============
 
-![Screenshot of "SWOT"] (http://www.lookbackon.com/MerePawn/SWOT-DoorstopAlien.png)
+![Screenshot of "SWOT"] (https://github.com/yangboz/DoorstopAlien/blob/master/SWOT_DoorStopAlien.png)
 
 High level design
 =============
